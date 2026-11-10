@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <span style="color:#D98EAA;">HI! I AM YUA!</span>
+  <span style="color:#D98EAA;">HI👋I AM YUA❤</span>
 </h1>
 
 <p align="center">
